@@ -1,2 +1,2 @@
 # Geo-Link-RX
-A Esp32 Based Lora receiver with Oled , Neopixel , dual power input and usb-c. 
+This is a custom-designed LoRa Receiver (RX) board based on the ESP32-S3 WROOM-1 and E22 LoRa module (866 MHz), optimized for long-range, low-power communication. The board includes an onboard OLED display, FTDI header and USB-C for programming, and a GPIO expansion header for additional peripherals. It also integrates proper power input with a range of 5v to 28v and triple power options.
